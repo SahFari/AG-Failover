@@ -1,3 +1,5 @@
+-- Found it at https://www.sqlservercentral.com/blogs/availability-group-issues-fixed-with-alerts
+
 USE [msdb]
 GO
 

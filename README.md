@@ -1,5 +1,6 @@
 # AG-Failover
-Moving all Availability Groups in the event of a single AG failover 
+Moves all Availability Groups in the event of a single AG failover. 
+
 This project includes:
 - Procedure
 - Alert
